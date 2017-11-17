@@ -1,0 +1,16 @@
+{
+  "templates": [
+    {
+      "name": "React stateless",
+      "folderPath": "/templates/stateless/",
+      "fileKeys": ["name", "folderName", "dist"],
+      "folderPath": "${dist}/${folderName}"
+    },
+    {
+      "name": "React redux",
+      "folderPath": "/templates/redux/",
+      "fileKeys": ["name", "folderName", "dist"],
+      "folderPath": "${dist}/${folderName}"
+    }
+  ]
+}
